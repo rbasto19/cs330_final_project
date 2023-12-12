@@ -4,6 +4,8 @@
 
 [[OpenReview](https://openreview.net/forum?id=PzcvxEMzvQC)] [[arXiv](https://arxiv.org/abs/2203.02923)] [[Code](https://github.com/MinkaiXu/GeoDiff)]
 
+NOTE: the below is the official GeoDiff's README file. My (Rafael) modifications are mostly flagged by "#MY CONTRIBUTION" in the train_MAML.py (basic MAML), train_MAMLpp.py (MAML++ and curriculum modifications), and train_MAMLpp_task2.py (implementing new task structure) files.
+
 The official implementation of GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation (ICLR 2022 **Oral Presentation [54/3391]**).
 
 ![cover](assets/geodiff_framework.png)
